@@ -1,15 +1,10 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Plugin Download=
 
-Add your content here.
+Url Here
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
 
-https://www.dropbox.com/s/xef8t83sf93eo98/3-%20Tantas%20veces.wma
