@@ -1,10 +1,6 @@
-#summary One-sentence summary of this page.
+#How ti install SAD Analyzer Plugin
 
 = Plugin Download=
 
 Url Here
-
-
-= Details =
-
 
