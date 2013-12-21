@@ -1,6 +1,3 @@
-#How ti install SAD Analyzer Plugin
-
 = Plugin Download=
 
 Url Here
-
